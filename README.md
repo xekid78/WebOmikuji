@@ -1,0 +1,2 @@
+# WebOmikuji
+おみくじ
